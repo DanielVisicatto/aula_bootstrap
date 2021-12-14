@@ -1,0 +1,27 @@
+body {
+  font: 22px, "Segoe UI";
+}
+.navbar {
+  color: #fff;
+  background-color: #000;
+  padding-bottom: 20px;
+}
+
+.quem-somos {
+  background-color: gainsboro;
+}
+
+.margin {
+  padding: 50px 0 50px 0;
+}
+.parceiros {
+  background-color: rebeccapurple;
+}
+.servicos {
+  background-color: gainsboro;
+  padding: 5px 0 15px 0;
+}
+.bg-footer {
+  color: #fff;
+  background-color: #000;
+}
